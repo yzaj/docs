@@ -16,9 +16,15 @@
 
 ## GitBash
 
+**1.1 下载 GitBash：**
 
+[https://raw.githubusercontent.com/yzaj/gitbash/master/gitbash_latest.exe][5]
 
+**1.2 安装 GitBash：**
 
+双击 `gitbash_latest.exe` 即可完成安装。
+
+默认安装位置：`C:\Program Files\Git` 目录。
 
 ## Cygwin
 
@@ -34,3 +40,4 @@
   [2]: #gitbash
   [3]: #cygwin
   [4]: #adb
+  [5]: https://raw.githubusercontent.com/yzaj/gitbash/master/gitbash_latest.exe
