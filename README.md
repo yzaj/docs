@@ -9,6 +9,26 @@
 
 ## 说明
 
+系统：
+
+ - Windows 10 64位版
+ - Android
+
+## GitBash
+
+
+
+
+
+## Cygwin
+
+
+
+
+
+
+## ADB
+
 
 
 
