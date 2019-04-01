@@ -40,18 +40,19 @@
 
 ## ADB
 
+**1.1 安装 ADB：**
 
+在 `Cygwin` 中执行：
 
+     curl -sS https://raw.githubusercontent.com/yzaj/adb/master/install.sh | bash
 
+默认安装到：`Cygwin` 的 `/yzaj/adb` 目录下。
 
+**1.2 卸载 ADB：**
 
+在 `Cygwin` 中执行：
 
-
-
-
-
-
-
+     curl -sS https://raw.githubusercontent.com/yzaj/adb/master/uninstall.sh | bash
 
 
   [1]: #%E8%AF%B4%E6%98%8E
